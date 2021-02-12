@@ -1,0 +1,1 @@
+/app/app/code/Rokanthemes/RokanBase/view/frontend/web/js/owl_carousel.js

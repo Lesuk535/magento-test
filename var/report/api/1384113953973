@@ -1,0 +1,1 @@
+"Fatal Error: 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 2560001 bytes)' in '\/app\/vendor\/magento\/framework\/Image\/Adapter\/Gd2.php' on line 313"

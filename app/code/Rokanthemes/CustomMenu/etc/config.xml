@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Store/etc/config.xsd">
+    <default>
+        <custommenu>
+            <general>
+                <enable>1</enable>
+                <menu_type>fullwidth</menu_type>
+                <static_width>500px</static_width>
+                <max_level></max_level>
+            </general>
+            <cat_labels>
+                <label1>New</label1>
+                <label2>Hot!</label2>
+                <label3>Sale</label3>
+            </cat_labels>
+            <custom_template>
+                <enable_custom_template_catalog>1</enable_custom_template_catalog>
+                <enable_custom_template_after>1</enable_custom_template_after>
+                <enable_custom_template_before>1</enable_custom_template_before>
+            </custom_template>
+        </custommenu>
+    </default>
+</config>

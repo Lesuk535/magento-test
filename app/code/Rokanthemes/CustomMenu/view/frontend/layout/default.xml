@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+* Copyright © 2016 TuanHatay. All rights reserved.
+*/
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="catalog.topnav" remove="true"/>
+        <referenceContainer name="page.top">
+            <block class="Rokanthemes\CustomMenu\Block\Topmenu" name="custom.topnav" as="topnavigation" template="Rokanthemes_CustomMenu::topmenu.phtml" group="navigation-sections" ttl="3600" before="-">
+                <block class="Rokanthemes\CustomMenu\Block\Topmenu" name="custom.topnav.before" as="menu_before" template="Rokanthemes_CustomMenu::menu_before.twig" group="navigation-sections"  ttl="3600" before="-"/>
+                <block class="Rokanthemes\CustomMenu\Block\Topmenu" name="custom.topnav.catalog" as="menu_catalog" template="Rokanthemes_CustomMenu::woman.twig" group="navigation-sections"  ttl="3600" before="-"/>
+                <block class="Rokanthemes\CustomMenu\Block\Topmenu" name="custom.topnav.after" as="menu_after" template="Rokanthemes_CustomMenu::menu_after.twig" group="navigation-sections"  ttl="3600" before="-"/>
+            </block>
+        </referenceContainer>
+    </body>
+</page>

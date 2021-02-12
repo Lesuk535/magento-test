@@ -1,0 +1,41 @@
+<li class="ui-menu-item level0 staticwidth menu-item-has-children parent">
+    <div class="open-children-toggle">
+    </div>
+    <a class="level-top">Catalog</a>
+    <div class="level0 submenu" style="width: 1000px; left: auto; right: 0px; border-radius: 6px 0px 6px 6px;">
+        <div class="menu-top-block">
+            <div class="block-top-for-women">
+                <div class="row">
+                    <div class="col-md-3 col-sm-3"><img src="http://blueskytechmage.com/eren/pub/media/wysiwyg/wmenu1.jpg" width="255" height="135"></div>
+                    <div class="col-md-3 col-sm-3"><img src="http://blueskytechmage.com/eren/pub/media/wysiwyg/wmenu2.jpg" width="255" height="135"></div>
+                    <div class="col-md-3 col-sm-3"><img src="http://blueskytechmage.com/eren/pub/media/wysiwyg/wmenu3.jpg" width="255" height="135"></div>
+                    <div class="col-md-3 col-sm-3"><img src="http://blueskytechmage.com/eren/pub/media/wysiwyg/wmenu4.jpg" width="255" height="135"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <ul class="subchildmenu col-sm-12 mega-columns columns5">
+                {% set categories = getStoreCategories(true,true) %}
+                {% for category in categories %}
+                    {% if(category.getIsActive == true and category.getLevel() == 2) %}
+                        {% set children = getActiveChildCategories(category) %}
+                            <li class="ui-menu-item level1 parent ">
+                                <a href="{{ getCategoryUrl(category) }}">
+                                    <span>{{category.getname}}</span>
+                                </a>
+                                {% for child in children %}
+                                    <ul class="subchildmenu ">
+                                        <li class="ui-menu-item level2 ">
+                                            <a href="{{ getCategoryUrl(child) }}">
+                                                <span>{{ child.getname }}</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                {% endfor %}
+                            </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</li>

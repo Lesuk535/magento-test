@@ -1,0 +1,15 @@
+{% extends getTemplateFile('base.html.twig')|replace({'/app/': ''}) %}
+
+{% set config = getCustomMenuConfig() %}
+
+{% block nav %}
+    <nav class="navigation custommenu" role="navigation">
+        <ul>
+            {% if(config.general.enable) %}
+                {{ getChildHtml('menu_before')|raw }}
+                {{ getChildHtml('menu_catalog')|raw }}
+                {{ getChildHtml('menu_after')|raw }}
+            {% endif %}
+        </ul>
+    </nav>
+{% endblock %}

@@ -1,0 +1,12 @@
+{% block nav %}
+{% endblock %}
+{% block javascripts %}
+    <script type="text/javascript">
+        require([
+            'jquery',
+            'rokanthemes/custommenu'
+        ], function ($) {
+            $(".custommenu").CustomMenu();
+        });
+    </script>
+{% endblock %}

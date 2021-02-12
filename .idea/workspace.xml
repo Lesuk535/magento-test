@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36489b81-05eb-4874-ad79-bb5054f53cee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="app: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="app: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DockerExecCommand">
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:522c528249c14e179ad9fc5939b2ece183c7710e4737681fedabc5cf054cef02" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:c13cce52004bb9f53948884f8d89c07a48ff51de48a55d8ff62eba55dd4fb8a4" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:b2a2794b74dd0ad78d78720e7f76134818019a29c4bfc60bf1db943753224a01" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:36dbd10a9a440b671d18db8ed128288466f9e613fdac694278a79274cc331d7e" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:ccd9d78b1ed29de3635d69aab297ce87dd0dec6816ae51d821b4af116c3423d6" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:39ed1b72398bb18664219a4f71fcdc1040eb1cf59c86988c6849d13342282605" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:558380375f1a36c20e67c3a0b7bf715c659d75520d0e688b066d5e708918d716" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:fed513094ffe3d0f13b74dbd09de774470054bbce8a2060fcb42c3768a83ecab" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:7499b63fe700de4724361c168d78428bb8456d504372b8a75c8bdd28ae1f14b6" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:4b6b02f9545eab22607a4cc4388626451b0d422e0057205b4a59560ce977ff15" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:73a35a9ce2b389f204542ff95c7a8e0717da2f40e1e803624c282f3c1babf40d" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:97c3125ea671b6d007a0f5aeb484a807cf488740b04f695ffc62b594181ff8e9" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:4e5a0804c4fc051bdacc502cfa2e1c971d233d62ef88f297be25ce0ee31ba89a" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:107a4e9abd982420f7f01644d262b633df14dfde9fad0699f30fdcb80f8da1ba" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:a2d35b3f47c261db49eae3b34a023110e27475560d1f83a994838fa42f7577ff" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:b9787c10c4ca121e9b33a9654e470cb1cc3257b04d98922b7fd7338218927e65" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:9d492ee89b6fa8d0a7b08f38cfcd9d892573421dde7b7446832cdded75f48539" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:d52d57178d68ceaa309964e73c93760330062c61af5dae2c8cf9026e4793bbe5" />
+    </ExecCommand>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="twig" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1:8084" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/magento/module-release-notification" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-page-cache" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-encryption-key" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-paypal" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-theme" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-webapi-security" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-cms" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-sales-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-client-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-weee-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cookie" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-bundle-product-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-quote-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-product-video" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-grouped-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-review" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-sales-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-metadata" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-fr_fr" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-webapi-async" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-image-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/composer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-theme-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-configurable-options" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-store-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-en_us" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-offline-payments" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-de_de" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-inventory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-paypal-captcha" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-usps" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-related-product-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-advanced-search" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-send-friend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-directory-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-quote" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-product-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework-bulk" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-offline-shipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-sales-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/google-shopping-ads" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-variable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-synchronization-metadata" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-metadata-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-product-alert" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-es_es" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-low-quantity-notification-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog-search" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-instant-purchase" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-inventory" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento-coding-standard" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-fedex" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-checkout-agreements-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-vault-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-payment" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cardinal-commerce" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-rule" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-reservation-cli" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-robots" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-adminhtml-backend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-reservations-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule-configurable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-bundle-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-advanced-checkout" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-bundle-options" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-rss" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-contact" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-bundle-product-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-user" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-admin-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-integration" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-backup" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp-grouped-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-shipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-source-selection-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-source-deduction-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-security" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configuration" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento2-functional-testing-framework" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-sales-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-paypal" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-validation-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-pt_br" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-eav-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-product-alert" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-quote" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-newsletter-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-admin-notification" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-ims-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-reservations" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-directory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-synchronization-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-optimizer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp-configurable-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-store" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-zh_hans_cn" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-frontend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-two-factor-auth" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-storage" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-inventory-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-search" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-marketplace" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-gift-message-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-deploy" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-persistent" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-page-cache" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-version" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-config" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-version-2-invisible" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-catalog-integration" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-multishipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-assistance" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configurable-product-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-reports" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-send-friend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-graph-ql-cache" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-backend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-message-queue" />
+      <path value="$PROJECT_DIR$/vendor/magento/composer-root-update-plugin" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches-layered-navigation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-ui-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-amqp" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-version-2-checkbox" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-paypal-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-sequence" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-user" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-export-stock" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-mysql-mq" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-distance-based-source-selection" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swagger" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-shipping-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-grouped-product-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-securitytxt" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-dhl" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-vault" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-synchronization-cms" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-currency-symbol" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-checkout" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-elasticsearch-7" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-frontend-luma" />
+      <path value="$PROJECT_DIR$/vendor/magento/zendframework1" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swagger-webapi" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-ims" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-gift-message" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento-composer-installer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-ups" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swagger-webapi-async" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-captcha" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-validation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-weee" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-cache" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-send-friend-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-multishipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-rule" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-sales-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-export-stock-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-require-js" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cache-invalidate" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-developer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-eav" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-low-quantity-notification-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-visual-merchandiser" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-customer-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-grouped-product-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-newsletter" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cron" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-elasticsearch-6" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-frontend-blank" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-image-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-translation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-checkout" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-distance-based-source-selection-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-shipping-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework-amqp" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-cms-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-source-selection" />
+      <path value="$PROJECT_DIR$/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-layered-navigation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-email" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/temando/module-shipping-remover" />
+      <path value="$PROJECT_DIR$/vendor/webonyx/graphql-php" />
+      <path value="$PROJECT_DIR$/vendor/theseer/fdomdocument" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/beberlei/assert" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/csharpru/vault-php-guzzle6-transport" />
+      <path value="$PROJECT_DIR$/vendor/csharpru/vault-php" />
+      <path value="$PROJECT_DIR$/vendor/dotmailer/dotmailer-magento2-extension" />
+      <path value="$PROJECT_DIR$/vendor/dotmailer/dotmailer-magento2-extension-chat" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/mikey179/vfsstream" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/braintree/braintree_php" />
+      <path value="$PROJECT_DIR$/vendor/mustache/mustache" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/mcrypt_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/finder-facade" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/phpcpd" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/less.php" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-webdriver" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/lusitanian/oauth" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib" />
+      <path value="$PROJECT_DIR$/vendor/khanamiryan/qrcode-detector-decoder" />
+      <path value="$PROJECT_DIR$/vendor/tubalmartin/cssmin" />
+      <path value="$PROJECT_DIR$/vendor/spomky-labs/otphp" />
+      <path value="$PROJECT_DIR$/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-sequence" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/vendor/php-webdriver/webdriver" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpcollection/phpcollection" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/vendor/dealerdirect/phpcodesniffer-composer-installer" />
+      <path value="$PROJECT_DIR$/vendor/elasticsearch/elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/credis" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/php-redis-session-abstract" />
+      <path value="$PROJECT_DIR$/vendor/allure-framework/allure-phpunit" />
+      <path value="$PROJECT_DIR$/vendor/allure-framework/allure-codeception" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/cache-backend-redis" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/cache-backend-file" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/christian-riesen/base32" />
+      <path value="$PROJECT_DIR$/vendor/allure-framework/allure-php-api" />
+      <path value="$PROJECT_DIR$/vendor/thecodingmachine/safe" />
+      <path value="$PROJECT_DIR$/vendor/phpcompatibility/php-compatibility" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/hoa/exception" />
+      <path value="$PROJECT_DIR$/vendor/hoa/stream" />
+      <path value="$PROJECT_DIR$/vendor/hoa/file" />
+      <path value="$PROJECT_DIR$/vendor/hoa/consistency" />
+      <path value="$PROJECT_DIR$/vendor/hoa/event" />
+      <path value="$PROJECT_DIR$/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/vendor/hoa/protocol" />
+      <path value="$PROJECT_DIR$/vendor/hoa/console" />
+      <path value="$PROJECT_DIR$/vendor/hoa/ustring" />
+      <path value="$PROJECT_DIR$/vendor/hoa/iterator" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/amzn/login-with-amazon-module" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-and-login-with-amazon-core-module" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/weew/helpers-array" />
+      <path value="$PROJECT_DIR$/vendor/true/punycode" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-module" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/donatj/phpuseragentparser" />
+      <path value="$PROJECT_DIR$/vendor/astock/stock-api-libphp" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-kp-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/vendor/cache/cache" />
+      <path value="$PROJECT_DIR$/vendor/yotpo/magento2-module-yotpo-reviews" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/iso3166" />
+      <path value="$PROJECT_DIR$/vendor/paypal/module-braintree-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-ordermanagement" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-onsitemessaging" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-kp" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-core" />
+      <path value="$PROJECT_DIR$/vendor/vertex/module-address-validation" />
+      <path value="$PROJECT_DIR$/vendor/vertex/module-tax" />
+      <path value="$PROJECT_DIR$/vendor/vertex/module-address-validation-api" />
+      <path value="$PROJECT_DIR$/vendor/vertex/sdk" />
+      <path value="$PROJECT_DIR$/vendor/pelago/emogrifier" />
+      <path value="$PROJECT_DIR$/vendor/paypal/module-braintree-core" />
+      <path value="$PROJECT_DIR$/vendor/tedivm/jshrink" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/guzzlestreams" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/ringphp" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-text" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-feed" />
+      <path value="$PROJECT_DIR$/vendor/2tvenom/cborencode" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/endroid/qr-code" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mvc" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mime" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-view" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-console" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-dependency-plugin" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-modulemanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-db" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-servicemanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-validator" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-captcha" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mail" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-serializer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-uri" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-di" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-session" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-i18n" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-math" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-psr7bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-config" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-filter" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-server" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-loader" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-inputfilter" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-http" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-hydrator" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-form" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-product-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configurable-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-new-relic-reporting" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-crypt" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-soap" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-log" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-json" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-newsletter" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-contact" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-downloadable-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-advanced-pricing-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tinymce-3" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-widget" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-product-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-downloadable-links" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-shipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-integration" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-csp" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-catalog-inventory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sitemap" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-widget" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-checkout-agreements" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-customer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-asset" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework-message-queue" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-synchronization-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-asynchronous-operations" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento2-base" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configurable-product-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-shipping-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-webapi" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-asset-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-multi-dimensional-indexer-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-search" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-cms-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-webapi-extension" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-log" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-shipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-catalog-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-requisition-list" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-migration" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-synchronization" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-synchronization-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-low-quantity-notification" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-client" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-bundle-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-authorization" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-setup-fixture-generator" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-adwords" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-nl_nl" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-amqp-store" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-synchronization" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-version-3-invisible" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-image" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configuration-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/inventory-composer-installer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-distance-based-source-selection-api" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/schumacherfm/magento-twig" />
+      <path value="$PROJECT_DIR$/vendor/paypal/rest-api-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/mageplaza/module-core" />
+      <path value="$PROJECT_DIR$/vendor/mageplaza/module-two-factor-authentication" />
+      <path value="$PROJECT_DIR$/vendor/sinergi/browser-detector" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/google-authenticator" />
+      <path value="$PROJECT_DIR$/vendor/facebook/graph-sdk" />
+      <path value="$PROJECT_DIR$/vendor/hybridauth/hybridauth" />
+      <path value="$PROJECT_DIR$/vendor/mageplaza/magento-2-social-login" />
+      <path value="$PROJECT_DIR$/vendor/mageplaza/module-smtp" />
+      <path value="$PROJECT_DIR$/vendor/mageplaza/module-google-recaptcha" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1n7eddpwF7bYFIYvvmwauuSW0Z5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/code/Rokanthemes/CredentialManagement/etc" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code/Rokanthemes/CredentialManagement/etc" />
+      <recent name="$PROJECT_DIR$/app/code/Rokanthemes/CredentialManagement" />
+      <recent name="$PROJECT_DIR$/app/code/Eren/CustomMenu/Helper" />
+      <recent name="$PROJECT_DIR$/app/code/Eren/CustomMenu" />
+      <recent name="$PROJECT_DIR$/app/code/Eren/Category" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code/Rokanthemes/CustomMenu/view/frontend/templates" />
+      <recent name="$PROJECT_DIR$/app/code/Eren/Category/Block/Widget" />
+      <recent name="$PROJECT_DIR$/docker/php-cli" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile.m-cache-flush">
+    <configuration name="chmod-all" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="chmod-all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="m-cache-flush" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="m-cache-flush" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.m-cache-flush" />
+        <item itemvalue="Makefile.chmod-all" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.24207687" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36489b81-05eb-4874-ad79-bb5054f53cee" name="Default Changelist" comment="" />
+      <created>1610745644796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610745644796</updated>
+      <workItem from="1610745647367" duration="31559000" />
+      <workItem from="1611049107549" duration="10200000" />
+      <workItem from="1611079765255" duration="2864000" />
+      <workItem from="1611131178179" duration="5361000" />
+      <workItem from="1611140663246" duration="3498000" />
+      <workItem from="1611244166064" duration="13903000" />
+      <workItem from="1611304523132" duration="15121000" />
+      <workItem from="1611325886559" duration="887000" />
+      <workItem from="1611401377820" duration="7965000" />
+      <workItem from="1611562483539" duration="729000" />
+      <workItem from="1611563571182" duration="51889000" />
+      <workItem from="1611759174898" duration="4125000" />
+      <workItem from="1611821347072" duration="28042000" />
+      <workItem from="1611907444600" duration="22699000" />
+      <workItem from="1612169782190" duration="54550000" />
+      <workItem from="1612280486842" duration="7831000" />
+      <workItem from="1612340836769" duration="32868000" />
+      <workItem from="1612426579944" duration="19032000" />
+      <workItem from="1612447880239" duration="13287000" />
+      <workItem from="1612775527459" duration="313000" />
+      <workItem from="1612776277742" duration="26338000" />
+      <workItem from="1612857344080" duration="24009000" />
+      <workItem from="1612947461738" duration="20187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2306" y="243" key="#CLI_Interpreters" timestamp="1611845333416">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2306" y="243" key="#CLI_Interpreters/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1611845333416" />
+    <state x="2342" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611307446272">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="708" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1600.900/38.24.1642.1026@1680.0.1600.900" timestamp="1610922774232" />
+    <state x="2342" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1600.900/0.24.1920.1056@1920.0.1600.900" timestamp="1611307446272" />
+    <state x="2452" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611074372653">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2452" y="269" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1600.900/36.24.1884.1056@1920.0.1600.900" timestamp="1611074372653" />
+    <state x="2403" y="338" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1612188691619">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="580" y="298" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.90.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1611837926122" />
+    <state x="2403" y="338" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612188691619" />
+    <state x="2503" y="365" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1611845691950">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2503" y="365" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1611845691950" />
+    <state x="2421" y="416" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1612874018991">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2421" y="416" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612874018991" />
+    <state x="1331" y="263" key="FileChooserDialogImpl" timestamp="1612799969148">
+      <screen x="0" y="0" width="3520" height="1080" />
+    </state>
+    <state x="1331" y="263" key="FileChooserDialogImpl/0.0.3520.1080@0.0.3520.1080" timestamp="1612799969148" />
+    <state x="2285" y="219" key="FileChooserDialogImpl/1680.0.1600.900/38.24.1642.1026@1680.0.1600.900" timestamp="1610922405675" />
+    <state x="2525" y="219" key="FileChooserDialogImpl/1920.0.1600.900/0.24.1920.1056@1920.0.1600.900" timestamp="1611144436897" />
+    <state x="2525" y="219" key="FileChooserDialogImpl/1920.0.1600.900/36.24.1884.1056@1920.0.1600.900" timestamp="1611053354578" />
+    <state x="2525" y="309" key="FileChooserDialogImpl/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1611845527951" />
+    <state width="1512" height="235" key="GridCell.Tab.0.bottom" timestamp="1612426177922">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state width="991" height="318" key="GridCell.Tab.0.bottom/1680.0.1600.900/38.24.1642.1026@1680.0.1600.900" timestamp="1610922644176" />
+    <state width="1238" height="311" key="GridCell.Tab.0.bottom/1920.0.1600.900/0.24.1920.1056@1920.0.1600.900" timestamp="1611307329250" />
+    <state width="991" height="298" key="GridCell.Tab.0.bottom/1920.0.1600.900/36.24.1884.1056@1920.0.1600.900" timestamp="1611049731978" />
+    <state width="1404" height="577" key="GridCell.Tab.0.bottom/1920.90.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1611739271063" />
+    <state width="1512" height="235" key="GridCell.Tab.0.bottom/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612353074267" />
+    <state width="1512" height="235" key="GridCell.Tab.0.bottom/1920.90.1600.900/42.24.1558.876@1920.90.1600.900" timestamp="1612426177922" />
+    <state width="1512" height="235" key="GridCell.Tab.0.center" timestamp="1612426177921">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state width="991" height="318" key="GridCell.Tab.0.center/1680.0.1600.900/38.24.1642.1026@1680.0.1600.900" timestamp="1610922644176" />
+    <state width="1238" height="311" key="GridCell.Tab.0.center/1920.0.1600.900/0.24.1920.1056@1920.0.1600.900" timestamp="1611307329249" />
+    <state width="991" height="298" key="GridCell.Tab.0.center/1920.0.1600.900/36.24.1884.1056@1920.0.1600.900" timestamp="1611049731978" />
+    <state width="1404" height="577" key="GridCell.Tab.0.center/1920.90.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1611739271063" />
+    <state width="1512" height="235" key="GridCell.Tab.0.center/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612353074267" />
+    <state width="1512" height="235" key="GridCell.Tab.0.center/1920.90.1600.900/42.24.1558.876@1920.90.1600.900" timestamp="1612426177921" />
+    <state width="1512" height="235" key="GridCell.Tab.0.left" timestamp="1612426177921">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state width="991" height="318" key="GridCell.Tab.0.left/1680.0.1600.900/38.24.1642.1026@1680.0.1600.900" timestamp="1610922644175" />
+    <state width="1238" height="311" key="GridCell.Tab.0.left/1920.0.1600.900/0.24.1920.1056@1920.0.1600.900" timestamp="1611307329249" />
+    <state width="991" height="298" key="GridCell.Tab.0.left/1920.0.1600.900/36.24.1884.1056@1920.0.1600.900" timestamp="1611049731978" />
+    <state width="1404" height="577" key="GridCell.Tab.0.left/1920.90.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1611739271063" />
+    <state width="1512" height="235" key="GridCell.Tab.0.left/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612353074267" />
+    <state width="1512" height="235" key="GridCell.Tab.0.left/1920.90.1600.900/42.24.1558.876@1920.90.1600.900" timestamp="1612426177921" />
+    <state width="1512" height="235" key="GridCell.Tab.0.right" timestamp="1612426177922">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state width="991" height="318" key="GridCell.Tab.0.right/1680.0.1600.900/38.24.1642.1026@1680.0.1600.900" timestamp="1610922644176" />
+    <state width="1238" height="311" key="GridCell.Tab.0.right/1920.0.1600.900/0.24.1920.1056@1920.0.1600.900" timestamp="1611307329250" />
+    <state width="991" height="298" key="GridCell.Tab.0.right/1920.0.1600.900/36.24.1884.1056@1920.0.1600.900" timestamp="1611049731978" />
+    <state width="1404" height="577" key="GridCell.Tab.0.right/1920.90.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1611739271063" />
+    <state width="1512" height="235" key="GridCell.Tab.0.right/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612353074267" />
+    <state width="1512" height="235" key="GridCell.Tab.0.right/1920.90.1600.900/42.24.1558.876@1920.90.1600.900" timestamp="1612426177922" />
+    <state width="235" height="500" key="HiddenNamespacesPopup" timestamp="1611049511842">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="235" height="500" key="HiddenNamespacesPopup/1680.0.1600.900/38.24.1642.1026@1680.0.1600.900" timestamp="1610922456761" />
+    <state width="235" height="500" key="HiddenNamespacesPopup/1920.0.1600.900/36.24.1884.1056@1920.0.1600.900" timestamp="1611049511842" />
+    <state x="231" y="466" key="NewPhpClassDialog" timestamp="1612777801708">
+      <screen x="0" y="0" width="3520" height="1080" />
+    </state>
+    <state x="231" y="466" key="NewPhpClassDialog/0.0.3520.1080@0.0.3520.1080" timestamp="1612777801708" />
+    <state x="545" y="360" key="NewPhpClassDialog/1920.90.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1611837786108" />
+    <state x="2025" y="478" key="NewPhpClassDialog/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612459489012" />
+    <state x="2220" y="220" key="SettingsEditor" timestamp="1611908700580">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2220" y="220" key="SettingsEditor/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1611908700580" />
+    <state x="2470" y="288" width="540" height="524" key="StructurePopup" timestamp="1612274989722">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2470" y="288" width="540" height="524" key="StructurePopup/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612274989722" />
+    <state x="2578" y="484" key="WebDeployment.AddServerDialog.v.1" timestamp="1611845187286">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2578" y="484" key="WebDeployment.AddServerDialog.v.1/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1611845187286" />
+    <state x="2475" y="362" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1611743520760">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2475" y="362" key="com.intellij.database.dbimport.ImportUtil.MyDialog/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1611743520760" />
+    <state x="2363" y="227" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1610922250000">
+      <screen x="1680" y="0" width="1600" height="900" />
+    </state>
+    <state x="2363" y="227" key="com.intellij.database.view.ui.DbObjectDialog/1680.0.1600.900/38.24.1642.1026@1680.0.1600.900" timestamp="1610922249999" />
+    <state x="563" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1612947486060">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="492" y="330" key="com.intellij.ide.util.TipDialog/1680.0.1600.900/0.24.1680.1026@0.24.1680.1026" timestamp="1611401597366" />
+    <state x="2388" y="268" key="com.intellij.ide.util.TipDialog/1920.0.1600.900/0.24.1920.1056@1920.0.1600.900" timestamp="1611304656726" />
+    <state x="563" y="322" key="com.intellij.ide.util.TipDialog/1920.90.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1612775535611" />
+    <state x="563" y="322" key="com.intellij.ide.util.TipDialog/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612947486060" />
+    <state x="503" y="277" key="com.intellij.ide.util.TipDialog/42.24.1558.876@42.24.1558.876" timestamp="1612776280593" />
+    <state x="2406" y="216" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611930469133">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2406" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1600.900/0.24.1920.1056@1920.0.1600.900" timestamp="1611245432610" />
+    <state x="2406" y="216" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1611930469133" />
+    <state x="147" y="56" width="1732" height="800" key="dock-window-1" timestamp="1612452419468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="147" y="56" width="1732" height="800" key="dock-window-1/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612452419468" />
+    <state x="2418" y="163" width="645" height="783" key="find.popup" timestamp="1612444547248">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2418" y="163" width="645" height="783" key="find.popup/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1612444547248" />
+    <state x="2404" y="303" width="672" height="678" key="search.everywhere.popup" timestamp="1613037037412">
+      <screen x="1920" y="90" width="1600" height="900" />
+    </state>
+    <state x="2404" y="213" width="672" height="678" key="search.everywhere.popup/1920.0.1600.900/36.24.1884.1056@1920.0.1600.900" timestamp="1611049900580" />
+    <state x="581" y="256" width="807" height="814" key="search.everywhere.popup/1920.90.1600.900/0.0.1920.1080@0.0.1920.1080" timestamp="1611838088388" />
+    <state x="2404" y="303" width="672" height="678" key="search.everywhere.popup/1920.90.1600.900/0.0.1920.1080@1920.90.1600.900" timestamp="1613037037412" />
+  </component>
+</project>

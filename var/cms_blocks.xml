@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<root>
+  <blocks>
+    <item>
+      <title><![CDATA[Footer Static]]></title>
+      <identifier><![CDATA[footer_static]]></identifier>
+      <content><![CDATA[<div class="footer-static">
+<div class="col-xs-12 col-sm-3 col-md-3">
+<div class="footer-links contacts"><a href="javascript:void(0)" class="title">Contact</a>
+<div class="footer-link-contact">
+<ul class="ft-contactus">
+<li class="address">1234 Heaven Stress, Beverly Hill.</li>
+<li class="phone">Telephone: +01 234 567 89</li>
+<li class="email">Email: info@thebuesky.com</li>
+<li class="time">8:00 - 19:00, Monday - Saturday</li>
+</ul>
+<img src="{{media url="wysiwyg/payment.png"}}" alt="" /></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-3 col-md-3">
+<div class="footer-links"><a href="javascript:void(0)" class="title">My Account</a>
+<ul>
+<li><a href="#">My Account</a></li>
+<li><a href="#">Login</a></li>
+<li><a href="#">My Cart</a></li>
+<li><a href="#">Wishlist</a></li>
+<li><a href="#">Checkout</a></li>
+<li><a href="#">Userinfor</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-3 col-md-3">
+<div class="footer-links"><a href="javascript:void(0)" class="title">Information</a>
+<ul>
+<li><a href="#">About Us</a></li>
+<li><a href="#">Careers</a></li>
+<li><a href="#">Delivery Inforamtion</a></li>
+<li><a href="#">Privacy Policy</a></li>
+<li><a href="#">Terms &amp; Condition</a></li>
+<li><a href="#">Sale products</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-3 col-md-3">
+<div class="footer-links"><a href="javascript:void(0)" class="title">Customer Service</a>
+<ul>
+<li><a href="#">Shipping Policy</a></li>
+<li><a href="#">Compensation First</a></li>
+<li><a href="#">My Account</a></li>
+<li><a href="#">Return Policy</a></li>
+<li><a href="#">Contact Us</a></li>
+<li><a href="#">Shipping Info</a></li>
+</ul>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Banner Top]]></title>
+      <identifier><![CDATA[banner_top]]></identifier>
+      <content><![CDATA[<div class="row">
+<div class="col-md-12 col-sm-12 col-xs-12 col-banner-top">
+<div class="banner-top banner-top1">
+<div class="bs-banner"><a href="#"><img src="{{media url="wysiwyg/home6/banner-top1-h6.jpg"}}" alt="" /></a></div>
+</div>
+</div>
+<div class="col-md-12 col-sm-12 col-xs-12 col-banner-top">
+<div class="banner-top banner-top2">
+<div class="bs-banner"><a href="#"><img src="{{media url="wysiwyg/home6/banner-top2-h6.jpg"}}" alt="" /></a></div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[8]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[ Banner Middle Home2]]></title>
+      <identifier><![CDATA[banner_middle]]></identifier>
+      <content><![CDATA[<p><a href="#"><img src="{{media url="wysiwyg/home2/banner_middle.jpg"}}" alt="" /></a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[2]]></id>
+        <id><![CDATA[6]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Top link]]></title>
+      <identifier><![CDATA[top_link]]></identifier>
+      <content><![CDATA[<ul class="top-link">
+<li><a href="{{store url="customer/account/create/"}}">My account</a></li>
+<li><a href="{{store url="wishlist/index/index/"}}">Wishlish</a></li>
+<li><a href="{{store url="checkout/"}}">My Cart</a></li>
+<li><a href="{{store url="checkout/cart/"}}">Checkout</a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Social Block]]></title>
+      <identifier><![CDATA[social_block]]></identifier>
+      <content><![CDATA[<ul class="link-follow">
+<li class="first"><a class="twitter fa fa-twitter" href="#"><span>twitter</span></a></li>
+<li><a class="facebook fa fa-facebook" href="#"><span>facebook</span></a></li>
+<li><a class="google fa fa-google-plus" href="#"><span>google</span></a></li>
+<li><a class="linkedin fa fa-linkedin" href="#"><span>linkedin</span></a></li>
+<li><a class="fa fa-rss" href="#"><span>rss</span></a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Custom Link Before]]></title>
+      <identifier><![CDATA[menu_custom_links_before]]></identifier>
+      <content><![CDATA[<ul>
+<li class="ui-menu-item level0"><a href="{{store url=''}}" class="level-top"><span>Home</span></a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Custom Link]]></title>
+      <identifier><![CDATA[menu_custom_links]]></identifier>
+      <content><![CDATA[<ul>
+<li class="ui-menu-item level0 classic parent ">
+<div class="open-children-toggle"></div>
+<a class="level-top" href="javascript:void(0)"> <span>Pages</span> </a>
+<div class="level0 submenu">
+<div class="row">
+<ul class="subchildmenu ">
+<li class="ui-menu-item level1 "><a href="{{store url='rokanthemes-brand.html'}}"> <span>Brands</span> </a></li>
+<li class="ui-menu-item level1 "><a href="{{store url='about-us'}}"> <span>About Us</span> </a></li>
+<li class="ui-menu-item level1 "><a href="{{store url='privacy-policy-cookie-restriction-mode'}}"> <span>Privacy Policy</span> </a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="ui-menu-item level0"><a class="level-top" href="{{store url='blog'}}"><span>Blog</span></a></li>
+<li class="ui-menu-item level0"><a class="level-top" href="{{store url='contact'}}"><span>Contact Us</span></a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Box sale]]></title>
+      <identifier><![CDATA[box_sale]]></identifier>
+      <content><![CDATA[<p>Free uk delivery + return over £85.00 (excluding homeware)| free uk collect from store<br>
+<strong>Hurry up</strong></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Section services]]></title>
+      <identifier><![CDATA[section_services]]></identifier>
+      <content><![CDATA[<div class="row">
+	<div class="col-sm-4">
+		<div class="support-info">
+			<div class="info-title">
+			<i class="pe-7s-world">&nbsp;</i>Free shipping worldwide <strong>Free shipping worldwide</strong></div>
+		</div>
+	</div>
+	<div class="col-sm-4">
+		<div class="support-info">
+			<div class="info-title">
+				<p><i class="pe-7s-headphones">&nbsp;</i>24/7 CUSTOMER SERVICE <strong>Service Support 24/7</strong></p>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-4">
+		<div class="support-info">
+			<div class="info-title">
+				<p><i class="pe-7s-refresh-2">&nbsp;</i>MONEY BACK GUARANTEE!100% <strong>Money Back – 30 Days</strong></p>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Section brands]]></title>
+      <identifier><![CDATA[section_brands]]></identifier>
+      <content><![CDATA[<div>{{widget type="Rokanthemes\Brand\Block\Widget\Brandlist" show_brand_name="0" brand_groups="1,2" number_item="12" default_item="5" destop_item="5" small_destop_item="4" tablet_item="3" mobile_item="2" show_next_back_control="1" show_navigation_control="0" auto_play_control="1"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Box new image]]></title>
+      <identifier><![CDATA[box_new_image]]></identifier>
+      <content><![CDATA[<p><a href="#"><img src="{{media url="wysiwyg/home3/banner21.jpg"}}" alt="" /></a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[6]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[ Banner Middle Home4]]></title>
+      <identifier><![CDATA[banner_middle]]></identifier>
+      <content><![CDATA[<p><a href="#"><img src="{{media url="wysiwyg/home4/banner31.jpg"}}" alt="" /></a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[1]]></id>
+        <id><![CDATA[4]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Banner contact]]></title>
+      <identifier><![CDATA[contact-us]]></identifier>
+      <content><![CDATA[<img src="{{media url="wysiwyg/banner_contact.jpg"}}" alt="" />]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Contact Us Info]]></title>
+      <identifier><![CDATA[contact-info]]></identifier>
+      <content><![CDATA[<h3>Get office info.</h3>
+<div class="short-des">
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
+</div>
+<ul>
+<li class="address">
+<h4>Our Address</h4>
+<p>1234 Heaven Stress, Beverly Hill.</p>
+</li>
+<li class="phone">
+<h4>Phone Number</h4>
+<p>Office: (800) 123 456 789 </p>
+</li>
+<li class="email">
+<h4>Email address</h4>
+<p>Email: Erentheme@gmail.com</p>
+<p>Support: Erentheme@gmail.com </p>
+</li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Contact Maps]]></title>
+      <identifier><![CDATA[maps]]></identifier>
+      <content><![CDATA[<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24201.246844804893!2d-111.94405300000001!3d40.692565!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x90cf6256d98a62eb!2sValley+Fair+Mall!5e0!3m2!1sen!2sus!4v1487152442332" width="1920" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[0]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[About us]]></title>
+      <identifier><![CDATA[about_top]]></identifier>
+      <content><![CDATA[<h3>About us</h3>
+<p class="subtitle">Claritas est etiam processus dynamicus, qui sequitur.</p>
+<div class="content">
+Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[7]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Video home top]]></title>
+      <identifier><![CDATA[video_top]]></identifier>
+      <content><![CDATA[<iframe width="100%" height="707" src="https://www.youtube.com/embed/R6gSetttzgA" frameborder="0" allowfullscreen></iframe>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[7]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Product banner Image Left]]></title>
+      <identifier><![CDATA[pro_new_left]]></identifier>
+      <content><![CDATA[<p><img src="{{media url="wysiwyg/home5/pronew_left.jpg"}}" /></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[7]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Product new banner right]]></title>
+      <identifier><![CDATA[pro_new_right]]></identifier>
+      <content><![CDATA[<p><img src="{{media url="wysiwyg/home5/pronew_right.jpg"}}" /></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[7]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Banner middle]]></title>
+      <identifier><![CDATA[banner_middle]]></identifier>
+      <content><![CDATA[<img src="{{media url="wysiwyg/home5/banner_middle.jpg"}}" alt="" />]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[7]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Banner middle home 6]]></title>
+      <identifier><![CDATA[banner_middle]]></identifier>
+      <content><![CDATA[<p><img src="{{media url="wysiwyg/home6/banner-middle.jpg"}}" width="870" height="139" /></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[8]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Banner Right Middle]]></title>
+      <identifier><![CDATA[banner_right_middle]]></identifier>
+      <content><![CDATA[<div class="row">
+<div class="col-md-12 col-sm-12 col-xs-12 col-banner-top">
+<div class="banner-top banner-top1">
+<div class="bs-banner"><a href="#"><img src="{{media url="wysiwyg/home6/banner-top3-h6.jpg"}}" alt="" /></a></div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[8]]></id>
+      </store_id>
+    </item>
+    <item>
+      <title><![CDATA[Banner Top]]></title>
+      <identifier><![CDATA[banner_top]]></identifier>
+      <content><![CDATA[<div class="row">
+<div class="col-md-4 col-sm-4 col-xs-12 col-banner-top">
+<div class="banner-top banner-top1">
+<div class="bs-banner"><a href="#"><img src="{{media url="wysiwyg/banner11.jpg"}}" /></a></div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 col-xs-12 col-banner-top">
+<div class="banner-top banner-top2">
+<div class="bs-banner"><a href="#"><img src="{{media url="wysiwyg/banner12.jpg"}}" /></a></div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 col-xs-12 col-banner-top">
+<div class="banner-top banner-top3">
+<div class="bs-banner"><a href="#"><img src="{{media url="wysiwyg/banner13.jpg"}}" /></a></div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <store_id>
+        <id><![CDATA[1]]></id>
+        <id><![CDATA[2]]></id>
+        <id><![CDATA[4]]></id>
+        <id><![CDATA[6]]></id>
+        <id><![CDATA[7]]></id>
+      </store_id>
+    </item>
+  </blocks>
+</root>

@@ -1,0 +1,1 @@
+/app/app/code/Rokanthemes/PriceCountdown/view/frontend/web/js/timer.js
